@@ -22,5 +22,5 @@ Verify changes with: `npm run typecheck && npm test && npm run build`.
 ## Conventions
 - Tiles match on lowercase tone-marked pinyin (pinyin display) or hanzi (hanzi/both display). Words are 2–4 characters, one syllable per character.
 - Word identity / progress key: `${hanzi}|${syllables.join(' ')}`.
-- New dependencies were installed with `npm install --before=<date ≥7 days ago>`.
+- This laptop's `~/.npmrc` (company-managed) enforces `min-release-age=21` and a company registry mirror. Never override it (no `--before`, no `--registry`). Install with `npm install --omit-lockfile-registry-resolved …` so the lockfile has no mirror URLs and GitHub Actions can `npm ci` from public npm.
 - Headless UI checks: drive `/Applications/Google Chrome.app` via CDP. `confirm()` dialogs can leave headless pages `visibilityState: hidden`.
