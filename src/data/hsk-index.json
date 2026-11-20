@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hsk2-1",
+    "version": "hsk2",
+    "level": 1,
+    "count": 67
+  },
+  {
+    "id": "hsk2-2",
+    "version": "hsk2",
+    "level": 2,
+    "count": 76
+  },
+  {
+    "id": "hsk2-3",
+    "version": "hsk2",
+    "level": 3,
+    "count": 206
+  },
+  {
+    "id": "hsk2-4",
+    "version": "hsk2",
+    "level": 4,
+    "count": 481
+  },
+  {
+    "id": "hsk2-5",
+    "version": "hsk2",
+    "level": 5,
+    "count": 1115
+  },
+  {
+    "id": "hsk2-6",
+    "version": "hsk2",
+    "level": 6,
+    "count": 2350
+  },
+  {
+    "id": "hsk3-1",
+    "version": "hsk3",
+    "level": 1,
+    "count": 294
+  },
+  {
+    "id": "hsk3-2",
+    "version": "hsk3",
+    "level": 2,
+    "count": 573
+  },
+  {
+    "id": "hsk3-3",
+    "version": "hsk3",
+    "level": 3,
+    "count": 799
+  },
+  {
+    "id": "hsk3-4",
+    "version": "hsk3",
+    "level": 4,
+    "count": 817
+  },
+  {
+    "id": "hsk3-5",
+    "version": "hsk3",
+    "level": 5,
+    "count": 889
+  },
+  {
+    "id": "hsk3-6",
+    "version": "hsk3",
+    "level": 6,
+    "count": 939
+  },
+  {
+    "id": "hsk3-7",
+    "version": "hsk3",
+    "level": 7,
+    "count": 5130
+  },
+  {
+    "id": "hsk2026-1",
+    "version": "hsk2026",
+    "level": 1,
+    "count": 157
+  },
+  {
+    "id": "hsk2026-2",
+    "version": "hsk2026",
+    "level": 2,
+    "count": 116
+  },
+  {
+    "id": "hsk2026-3",
+    "version": "hsk2026",
+    "level": 3,
+    "count": 361
+  },
+  {
+    "id": "hsk2026-4",
+    "version": "hsk2026",
+    "level": 4,
+    "count": 775
+  },
+  {
+    "id": "hsk2026-5",
+    "version": "hsk2026",
+    "level": 5,
+    "count": 1303
+  },
+  {
+    "id": "hsk2026-6",
+    "version": "hsk2026",
+    "level": 6,
+    "count": 1455
+  },
+  {
+    "id": "hsk2026-7",
+    "version": "hsk2026",
+    "level": 7,
+    "count": 4423
+  }
+]

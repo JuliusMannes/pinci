@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="#b8322a"/>
+  <rect x="8" y="8" width="48" height="48" rx="7" fill="none" stroke="#f6e7d6" stroke-width="1.6"/>
+  <text x="32" y="45" text-anchor="middle" font-size="36" fill="#fbf3e6" font-family="Kaiti SC, STKaiti, Songti SC, serif">拼</text>
+</svg>
